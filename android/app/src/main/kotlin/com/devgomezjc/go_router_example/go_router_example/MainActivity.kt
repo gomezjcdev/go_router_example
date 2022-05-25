@@ -1,0 +1,6 @@
+package com.devgomezjc.go_router_example.go_router_example
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
